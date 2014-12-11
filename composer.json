@@ -1,0 +1,26 @@
+{
+  
+  "name": "forall/liburl",
+  "description": "Extensible URL parsing library.",
+  "license": "MIT",
+  
+  "authors": [
+    {
+      "name": "Aldwin 'Avaq' Vlasblom",
+      "email": "aldwin.vlasblom@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  
+  "support": {
+    "source": "https://github.com/ForallFramework/lib.url",
+    "issues": "https://github.com/ForallFramework/lib.url/issues"
+  },
+  
+  "autoload": {
+    "psr-0": {
+      "forall\\liburl": "src/"
+    }
+  }
+  
+}
